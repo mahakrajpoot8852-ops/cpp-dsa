@@ -6,21 +6,15 @@ Welcome to my C++ & DSA repository.
 This repository contains my C++ practice programs and DSA solutions.
 
 ## Roadmap
+
 - [ ] Basics
 - [ ] Patterns
 - [ ] Functions
-- [ ] Arrays
-- [ ] 2D Arrays
+- [x] Arrays
 - [ ] Strings
-- [ ] STL
-- [ ] Time Complexity
-- [ ] Searching
-- [ ] Sorting
 - [ ] Linked List
 - [ ] Stack
 - [ ] Queue
 - [ ] Trees
 - [ ] Graph
 - [ ] Dynamic Programming
-
-Learning one step at a time. 🌱
