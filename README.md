@@ -10,7 +10,7 @@ This repository contains my C++ practice programs and DSA solutions.
 - [ ] Basics
 - [ ] Patterns
 - [ ] Functions
-- [x] Arrays
+- [ ] Arrays
 - [ ] Strings
 - [ ] Linked List
 - [ ] Stack
